@@ -1,6 +1,6 @@
 # TPFinal_C-nivel2
-Trabajo practico final para MaxiPrograma.com del lenguaje C# en el framework .Net. Se manejo SQL Server con una respectiva base de datos. Manejo de Excepciones y validaciones y mas
-dejo el Scrip para la bace de datos el programa que se uso enteramente en el proyecto fue VisualStudio 2022 y SQL Server
+Trabajo practico final para MaxiPrograma.com del lenguaje C# en el framework .Net. Se manejo SQL Server con una respectiva base de datos. Manejo de Excepciones y validaciones y mas.
+Aqui dejo el Scrip para la base de datos el programa que se uso enteramente en el proyecto fue VisualStudio 2022 y SQL Server.
 
 Scrip:
 
