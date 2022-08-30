@@ -209,6 +209,7 @@
             this.lblhGit.TabIndex = 3;
             this.lblhGit.TabStop = true;
             this.lblhGit.Text = "Github del Proyecto";
+            this.lblhGit.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lblhGit_LinkClicked);
             // 
             // frmBienvenido
             // 

@@ -47,12 +47,13 @@ namespace Presentacion
             abrirVentana();
         }
 
-        private void githubDelProyectoToolStripMenuItem_Click(object sender, EventArgs e)
+        private void lblhGit_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             if (MessageBox.Show("¿Quiere ver el codigo de esta app?", "Visit", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
             {
                 System.Diagnostics.Process.Start("https://github.com/MaxijTis/TPFinal_C-nivel2.git");
             }
+
         }
     }
 }
